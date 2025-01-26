@@ -6,7 +6,7 @@ The `bpUTiL` package, supported by `basePlus` and `macroArray` packages,
 provides a set of basic popular utility programs to make daily programming
 work easier.
 
-SHA256 digest for the latest version of `bpUTiL`: F*C5613BE7CC9143BED0C4490A3AFC823913DF20389D1454FA2CBC5E1F96A8DC5A
+SHA256 digest for the latest version of `bpUTiL`: F*4C8E477515813767772892FCADE9E90BF688FB22084D540C8F22E1A8AE1BC21C
 
 [**Documentation for bpUTiL**](./bputil.md "Documentation for bpUTiL")
 
